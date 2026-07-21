@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi 👋 I'm Sina
 
-<!--
-**Sina-imani303/Sina-imani303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Developer from Iran 🇮🇷
 
-Here are some ideas to get you started:
+I build modern, responsive and high-performance web applications using React, Next.js and TypeScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+- React.js
+- Next.js
+- JavaScript (ES6+)
+- TypeScript
+- HTML5
+- CSS3
+- Tailwind CSS
+- Bootstrap
+- Redux Toolkit
+- TanStack Query
+- REST API
+- Axios
+- AJAX
+- GSAP
+- Three.js
+- Git
+- GitHub
+- Webpack
+- Responsive Design
+- PWA
+
+## 📫 Contact
+
+- 🌐 Portfolio: https://portfolio-sina-imani.vercel.app
+- 💼 LinkedIn: https://linkedin.com/in/...
+- 💬 Telegram: https://t.me/Sina_immani
+- 📧 Email: sinaiamnii20@gmail.com
