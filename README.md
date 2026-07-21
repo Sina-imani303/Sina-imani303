@@ -25,7 +25,6 @@ I build modern, responsive and high-performance web applications using React, Ne
 - Three.js
 - Git
 - GitHub
-- Webpack
 - Responsive Design
 - PWA
 
