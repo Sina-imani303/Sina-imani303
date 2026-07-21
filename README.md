@@ -3,7 +3,9 @@
 ### Frontend Developer from Iran 🇮🇷
 
 I build modern, responsive and high-performance web applications using React, Next.js and TypeScript.
+## 🇮🇷 درباره من
 
+سلام، من سینا ایمانی هستم؛ توسعه‌دهنده فرانت‌اند با تمرکز بر React، Next.js و TypeScript. علاقه‌مند به ساخت وب‌سایت‌ها و وب‌اپلیکیشن‌های مدرن، سریع و کاربرپسند و آماده همکاری در پروژه‌های داخلی و خارجی.
 ## 💻 Tech Stack
 
 - React.js
