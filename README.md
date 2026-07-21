@@ -10,7 +10,7 @@ I build modern, responsive and high-performance web applications using React, Ne
 
 - React.js
 - Next.js
-- JavaScript (ES6+)
+- JavaScript (ES6+ES7)
 - TypeScript
 - HTML5
 - CSS3
